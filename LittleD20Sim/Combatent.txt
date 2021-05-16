@@ -1,0 +1,1 @@
+{"Kobold": {"Touch": 12, "Flat": 14, "AC": 15, "MeleeH": 1, "RangeD": -1, "MeleeD": -1, "Health": 5, "Inactive": 1, "RangeH": 3}, "Clu": {"Touch": 13, "Flat": 15, "AC": 19, "MeleeH": 3, "RangeD": 0, "MeleeD": 2, "Health": 12, "Inactive": 3, "RangeH": 3}}

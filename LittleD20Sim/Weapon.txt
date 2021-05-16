@@ -1,0 +1,1 @@
+{"Sword": {"Crit": 19, "Diec": 4, "Range": 0, "Type": "Martial One-Handed Melee", "Multi": 2}, "Hand Crossbow": {"Crit": 19, "Diec": 3, "Type": "Exotic Ranged", "Range": 30, "Multi": 2}, "Sling": {"Crit": 20, "Diec": 3, "Range": 50, "Type": "Simple Ranged", "Multi": 2}, "Longbow": {"Crit": 20, "Diec": 5, "Range": 100, "Type": "Martial Ranged", "Multi": 3}}
